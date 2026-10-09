@@ -1,0 +1,6 @@
+order_id,customer_id,amount_usd,created_date,currency,notes
+1,101,29.99,2026-10-01,USD,ok
+2,102,one-fifty,2026-10-01,USD,manual entry
+3,103,9.99,2026-10-02,USD,
+4,105,,2026-10-02,EUR,late
+5,106,49.99,2026-10-03,USD,ok

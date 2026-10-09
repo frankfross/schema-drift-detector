@@ -1,0 +1,2 @@
+# The tool itself is stdlib-only; this is just the test dependency.
+pytest

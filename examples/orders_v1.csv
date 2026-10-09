@@ -1,0 +1,6 @@
+order_id,customer_id,amount_usd,created_date,is_refund
+1,101,29.99,2026-09-28,false
+2,102,149.50,2026-09-29,false
+3,103,9.99,2026-09-29,true
+4,101,79.00,2026-09-30,false
+5,104,199.99,2026-09-30,false
